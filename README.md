@@ -2,9 +2,17 @@
 
 <div align="center">
 
-### Full Stack Developer | LATAM
+### 👋 ¡Hola! Soy Antoni Escalante
 
-Antoni Escalante is a versatile software developer specializing in end-to-end software development. He designs fluid and minimalist user experiences on the frontend, powered by scalable backend engines built with FastAPI and ASP.NET 8. With a strong focus on delivering quality code and solving complex technical challenges, Antoni is currently available for engineering collaborations and selected software projects.
+Desarrollador Full Stack apasionado por crear productos digitales que combinan una excelente experiencia de usuario con arquitecturas robustas y escalables.
+
+Mi experiencia abarca el desarrollo móvil con Flutter y Kotlin para Android, aplicaciones web con Next.js y OpenUI5, y servicios backend construidos con FastAPI y ASP.NET. También trabajo con PostgreSQL, Firebase, Docker y tecnologías cloud para diseñar soluciones completas de principio a fin.
+
+Disfruto convertir ideas en productos reales, optimizar procesos y resolver desafíos técnicos mediante soluciones simples, eficientes y mantenibles.
+
+Actualmente desarrollo proyectos propios, exploro modelos SaaS y continúo ampliando mis conocimientos en arquitectura de software, sistemas distribuidos e inteligencia artificial aplicada.
+
+
 
 </div>
 
@@ -24,11 +32,13 @@ Antoni Escalante is a versatile software developer specializing in end-to-end so
 
 ---
 
-### 🌱 Currently
+### 🚀 Actualmente
 
-- 📚 Learning: **Scalable backend architectures and advanced frontend frameworks.**
-- 🤝 Open to collaborate on: **Full-stack development projects, mobile application development, and UI/UX design.**
-- 💬 Ask me about: **End-to-end software development, scalable APIs, and mobile application architecture.**
+* 💻 Desarrollando aplicaciones web y móviles con Flutter y tecnologías modernas.
+* 📚 Aprendiendo sobre arquitectura de software, diseño de sistemas y soluciones escalables.
+* 🧠 Explorando proyectos SaaS, automatización e integración de IA.
+* 🤝 Abierto a colaboraciones, proyectos freelance y nuevas oportunidades.
+* 💬 Pregúntame sobre Flutter, FastAPI, ASP.NET, PostgreSQL y desarrollo de software.
 
 ---
 
@@ -36,7 +46,7 @@ Antoni Escalante is a versatile software developer specializing in end-to-end so
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aescalante.dev/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.anthony.qr@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antoni-escalante/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyXJ99)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aescalante.dev/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.anthony.qr@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-escalante/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyXJ99)
 
 </div>
 
@@ -48,7 +58,7 @@ Antoni Escalante is a versatile software developer specializing in end-to-end so
 
 <div align="center">
 
-⚡ Antoni enjoys creating retrofuturistic terminal applications and has a passion for audio processing in software.
+⚡ Me apasiona crear proyectos, experimentar con nuevas tecnologías y convertir ideas en productos reales.
 
 </div>
 
