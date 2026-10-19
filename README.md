@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Antoni%20Escalante&fontSize=50&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=68&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Antoni%20Escalante&fontSize=50&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=68&descSize=20)
 
 <div align="center">
 
